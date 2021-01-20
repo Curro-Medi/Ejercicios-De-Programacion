@@ -1,0 +1,37 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main(){
+int p;
+int t;
+cout<<"Hey dame un numero y te lo elevo al cubo"<<endl;
+cin>>p;
+
+t=pow (p,3);
+
+cout<<"Es "<<t;
+
+
+return 0;
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

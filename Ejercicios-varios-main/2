@@ -1,0 +1,19 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+int p;
+int n;
+cout<<"Dame tu anno de nacimiento"<<endl;
+cin>>p;
+n=2019-p;
+
+cout<<"Tienes "<<n<<" annos";
+
+
+return 0;
+
+}
+
